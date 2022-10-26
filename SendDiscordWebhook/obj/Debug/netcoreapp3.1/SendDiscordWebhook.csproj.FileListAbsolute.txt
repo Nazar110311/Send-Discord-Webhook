@@ -1,0 +1,15 @@
+C:\Users\nazar\source\repos\SendDiscordWebhook\bin\Debug\netcoreapp3.1\SendDiscordWebhook.exe
+C:\Users\nazar\source\repos\SendDiscordWebhook\bin\Debug\netcoreapp3.1\SendDiscordWebhook.deps.json
+C:\Users\nazar\source\repos\SendDiscordWebhook\bin\Debug\netcoreapp3.1\SendDiscordWebhook.runtimeconfig.json
+C:\Users\nazar\source\repos\SendDiscordWebhook\bin\Debug\netcoreapp3.1\SendDiscordWebhook.runtimeconfig.dev.json
+C:\Users\nazar\source\repos\SendDiscordWebhook\bin\Debug\netcoreapp3.1\SendDiscordWebhook.dll
+C:\Users\nazar\source\repos\SendDiscordWebhook\bin\Debug\netcoreapp3.1\SendDiscordWebhook.pdb
+C:\Users\nazar\source\repos\SendDiscordWebhook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nazar\source\repos\SendDiscordWebhook\obj\Debug\netcoreapp3.1\SendDiscordWebhook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazar\source\repos\SendDiscordWebhook\obj\Debug\netcoreapp3.1\SendDiscordWebhook.AssemblyInfoInputs.cache
+C:\Users\nazar\source\repos\SendDiscordWebhook\obj\Debug\netcoreapp3.1\SendDiscordWebhook.AssemblyInfo.cs
+C:\Users\nazar\source\repos\SendDiscordWebhook\obj\Debug\netcoreapp3.1\SendDiscordWebhook.csproj.CoreCompileInputs.cache
+C:\Users\nazar\source\repos\SendDiscordWebhook\obj\Debug\netcoreapp3.1\SendDiscordWebhook.csproj.CopyComplete
+C:\Users\nazar\source\repos\SendDiscordWebhook\obj\Debug\netcoreapp3.1\SendDiscordWebhook.dll
+C:\Users\nazar\source\repos\SendDiscordWebhook\obj\Debug\netcoreapp3.1\SendDiscordWebhook.pdb
+C:\Users\nazar\source\repos\SendDiscordWebhook\obj\Debug\netcoreapp3.1\SendDiscordWebhook.genruntimeconfig.cache
